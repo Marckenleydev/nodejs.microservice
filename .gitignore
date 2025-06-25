@@ -58,10 +58,6 @@ jspm_packages/
 # Yarn Integrity file
 .yarn-integrity
 
-# Docker
-.dockerignore
-Dockerfile
-docker-compose.yml
 
 # IDE
 .vscode/
