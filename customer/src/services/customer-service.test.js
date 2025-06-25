@@ -1,6 +1,6 @@
 // which service it is
 describe("customerservice", () => {
-  // which function it is
+  // which function we are testing
 
   describe("SignIn", () => {
     // which scenario we are testing

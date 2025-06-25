@@ -1,8 +1,8 @@
 // which service it is
-describe("customerservice", () => {
+describe("productservice", () => {
   // which function it is
 
-  describe("SignIn", () => {
+  describe("create product", () => {
     // which scenario we are testing
 
     test("validate user input", () => {
